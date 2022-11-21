@@ -26,3 +26,9 @@ C. results
   
 Fairly precise for all
 
+
+Frame-based timing exercises
+
+Overall, 7 frames were dropped.
+Overall, 8 frames were dropped.
+Overall, 9 frames were dropped.
